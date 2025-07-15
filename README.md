@@ -86,15 +86,3 @@ Profile and Address Management: Update profile information, add and modify shipp
 •
 Notifications: Receive notifications about order status, new offers, and updates on favorite products.
 
-
-1. Fork the repository on GitHub.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your feature or bug fix:
-4. Make your changes and test them thoroughly.
-5. Commit your changes with a clear and concise message.
-6. Push your changes to your branch on GitHub.
-7. Open a Pull Request to the main branch of the original repository.
-Please ensure your code adheres to the project's coding standards and all tests pass
-successfully.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
