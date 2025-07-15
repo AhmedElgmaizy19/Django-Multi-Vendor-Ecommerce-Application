@@ -84,5 +84,5 @@ Wishlist: Add products to a wishlist to save them for later or share them with o
 Profile and Address Management: Update profile information, add and modify shipping and billing addresses for faster checkout.
 
 •
-Notifications: Receive notifications about order status, new offers, and updates on favorite products.
+Notifications: Receive notifications about order status
 
